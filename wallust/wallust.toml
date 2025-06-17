@@ -1,0 +1,18 @@
+# Let's keep good old pywal look and feel
+backend = "wal"
+color_space = "labmixed" # idc about this one..
+#threshold = "20" # neither about this, since I read wallust does it automagically..
+# classic look
+palette = "harddark"
+# let's keep the contrast very very very clear.
+check_contrast = true
+
+[templates]
+hypr = { src = "hyprland-colors.conf", dst = "~/.config/hypr/colors.conf" }
+rofi = {src = "colors-rofi.rasi", dst ="~/.config/rofi/colors.rasi", pywal = true}
+kitty = {src = "kitty.conf", dst ="~/.config/kitty/colors.conf"}
+waybar = {src = "waybar.css", dst="~/.config/waybar/colors.css"}
+# old times, good times. Here I put old pywal templates.
+# NOTE THAT BOTH scr AND dst ARE DIRECTORIES!
+#pywal = { src = "../wal/templates", dst = '~/.cache/wal/', pywal = true }
+
