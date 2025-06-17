@@ -1,0 +1,12 @@
+2025-06-06 13:54:42.512 [info] Started local extension host with pid 4146.
+2025-06-06 13:54:42.551 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 13:54:42.952 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-html
+2025-06-06 13:54:42.954 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-txt
+2025-06-06 13:54:45.172 [info] [perf] Render performance baseline is 11ms
+2025-06-06 13:54:50.928 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2025-06-06 13:55:18.648 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-html
+2025-06-06 13:55:18.648 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-txt
+2025-06-06 13:55:39.732 [error] [text file model] handleSaveError(3) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2025-06-06 13:57:35.788 [error] [text file model] handleSaveError(5) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2025-06-06 13:59:32.201 [error] [text file model] handleSaveError(18) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2025-06-06 13:59:33.982 [error] [text file model] handleSaveError(18) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix

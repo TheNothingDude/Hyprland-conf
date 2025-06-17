@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Night Owl",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "files.autoGuessEncoding": true,
+    "security.workspace.trust.untrustedFiles": "open"
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: #fde8d3;
+}
+header{    
+    background-size: cover;
+    height: 300px;
+    background-image: url(img/header_bg.jpg);      
+    background-position: center;
+}
+
+.navbar li{
+    font-size: 30px;
+    font-size: 110%;
+    font-variant: small-caps;
+}
+
+h5{
+    text-align: center;
+  
+}
+
+h2{    
+    background-color: rgb(255,255,255);
+}
+
+.navbar, footer{
+    background-color: #fd8800;
+}
+
+#cim{
+    font-family: Georgia;
+    color: #573718;
+}

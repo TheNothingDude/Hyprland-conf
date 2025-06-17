@@ -1,0 +1,81 @@
+body{
+  background-image: url(./tiktok-logo.jpg);
+}
+
+main{
+  background-color: black;
+  width: 80%;
+  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  color:white;
+  text-align: center;
+  font-size: 70px;
+  margin: 30px;
+}
+h2{
+  color:white;
+}
+p{
+  color:white;
+}
+#elso{
+  font-size: 28px;
+}
+.red{
+  color: #ff0050;
+}
+.italy{
+  font-style: italic;
+}
+#cim{
+  border-style: solid;
+  border-width: 10px;
+  border-top-color: #00f2ea;
+  border-left-color: #00f2ea;
+  border-right-color: #ff0050;
+  border-bottom-color: #ff0050;
+  padding: 5px;
+}
+footer {
+  background-color: black;
+  padding-top: 25px;
+  text-align: center;
+}
+
+#app {
+  max-height: 50vh;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+}
+
+li {
+  color: white;
+}
+
+.card {
+  height: 100%;
+  margin-bottom: 30px;
+}
+
+.oszlop {
+  margin-bottom: 15px;
+}
+
+#html_icon {
+  width: 50px;
+}

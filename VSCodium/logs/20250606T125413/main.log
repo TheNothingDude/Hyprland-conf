@@ -1,0 +1,13 @@
+2025-06-06 12:54:13.403 [info] update#setState disabled
+2025-06-06 12:54:13.403 [info] update#ctor - updates are disabled as there is no update URL
+2025-06-06 12:54:14.112 [error] vscode-file: Refused to load resource /nix/store/nfrbhcirb21cbhfpq4icpwyc5yarrfn8-vscodium-1.99.32704/lib/vscode/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/nix/store/nfrbhcirb21cbhfpq4icpwyc5yarrfn8-vscodium-1.99.32704/lib/vscode/resources/app/extensions/theme-seti/icons/seti.woff)
+2025-06-06 12:54:25.029 [info] Extension host with pid 10559 exited with code: 0, signal: unknown.
+2025-06-06 13:04:49.176 [info] Extension host with pid 10725 exited with code: 0, signal: unknown.
+2025-06-06 13:06:03.562 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2025-06-06 13:06:10.185 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2025-06-06 13:31:04.431 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2025-06-06 13:31:05.252 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+

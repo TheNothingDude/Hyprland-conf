@@ -1,0 +1,6 @@
+2025-06-06 13:54:14.143 [info] Started local extension host with pid 3622.
+2025-06-06 13:54:14.152 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 13:54:16.360 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-html
+2025-06-06 13:54:16.360 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-txt
+2025-06-06 13:54:17.168 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (Error: File Modified Since) file:///etc/nixos/configuration.nix
+2025-06-06 13:54:18.761 [info] [perf] Render performance baseline is 13ms

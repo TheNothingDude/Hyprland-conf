@@ -1,0 +1,1 @@
+szam1 = int(input(""))

@@ -1,0 +1,59 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(./hatter.jpg);
+}
+
+li {
+  color: white;
+}
+
+#csapat {
+  max-width: 50%;
+}
+
+footer {
+  background-color: #2b2a2a;
+  padding-top: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+}
+
+#info {
+  text-align: left;
+  font-size: 10px;
+  margin-top: 10px;
+}
+#oldal{
+  background-color: rgba(0, 0, 0, 0.75);
+  margin-top:100px;
+  margin-left: 50px;
+  margin-right:50px;
+  padding: 50px;
+}
+h1{
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+h2{
+  color: white;
+}
+p{
+  color: white;
+  text-align: justify;
+  font-size: 18px;
+}
+#csapat{
+  width: 400px;
+  max-height: 50%;
+  float: right;
+  margin-left:25px;
+  border: ;
+}

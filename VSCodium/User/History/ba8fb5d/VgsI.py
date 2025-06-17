@@ -1,0 +1,4 @@
+list = []
+
+def valtozo(list):
+    

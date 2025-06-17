@@ -1,0 +1,12 @@
+2025-06-06 13:31:52.000 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 13:31:52.005 [info] Marked extension as removed jnoortheen.nix-ide-0.4.16
+2025-06-06 13:31:52.005 [info] Marked extension as removed kamadorueda.alejandra-1.4.0-universal
+2025-06-06 13:31:52.006 [info] Marked extension as removed pkief.material-icon-theme-5.22.0-universal
+2025-06-06 13:31:52.006 [info] Marked extension as removed vscodevim.vim-1.29.0-universal
+2025-06-06 13:31:52.006 [info] Marked extension as removed vscodevim.vim-1.30.1-universal
+2025-06-06 13:31:52.007 [info] Deleted marked for removal extension from disk jnoortheen.nix-ide /home/thenothingdude/.vscode-oss/extensions/jnoortheen.nix-ide-0.4.16-universal
+2025-06-06 13:31:52.008 [info] Deleted marked for removal extension from disk kamadorueda.alejandra /home/thenothingdude/.vscode-oss/extensions/kamadorueda.alejandra-1.4.0-universal
+2025-06-06 13:31:52.008 [info] Deleted marked for removal extension from disk pkief.material-icon-theme /home/thenothingdude/.vscode-oss/extensions/pkief.material-icon-theme-5.22.0-universal
+2025-06-06 13:31:52.008 [info] Deleted marked for removal extension from disk vscodevim.vim /home/thenothingdude/.vscode-oss/extensions/vscodevim.vim-1.29.0-universal
+2025-06-06 13:31:52.008 [info] Deleted marked for removal extension from disk vscodevim.vim /home/thenothingdude/.vscode-oss/extensions/vscodevim.vim-1.30.1-universal
+2025-06-06 13:31:54.237 [info] ComputeTargetPlatform: linux-x64

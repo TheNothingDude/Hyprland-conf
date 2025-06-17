@@ -1,0 +1,46 @@
+img, video, table {width:100%}
+
+body {
+    background-color: #fff8dc;
+}
+
+div#oldal {
+    border-radius: 20px;
+}
+
+video,
+table {
+    margin: 10px;
+}
+
+
+table {
+    border: 4px double gray;
+}
+
+
+td,
+th {
+    padding      : 5px;
+    border-bottom: 1px dotted gray;
+}
+figure{
+    float: left;
+    text-align: center;
+}
+img{
+    float: left;
+    margin: 10px;
+    margin-left: 0px;
+    width: 150px;
+}
+body{
+    background-image: url(./media/dart-hatter.jpg);
+    font-family: sans-serif;
+    text-align: justify;
+}
+#oldal{
+    background-color: white;
+    width: 75%;
+    
+}

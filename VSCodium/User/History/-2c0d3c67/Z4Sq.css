@@ -1,0 +1,20 @@
+body{
+    background-color: #fde8d3;
+}
+header{    
+    background-size: cover;
+    height: 300px;      
+}
+
+.navbar li{
+    font-size: 30px;    
+}
+
+h5{
+    text-align: center;
+}
+
+h2{    
+    background-color: rgb(255,255,255);
+}
+

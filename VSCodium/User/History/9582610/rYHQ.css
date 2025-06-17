@@ -1,0 +1,74 @@
+img, video, table {width:100%}
+
+body {
+    background-color: #fff8dc;
+}
+
+div#oldal {
+    border-radius: 20px;
+}
+
+video,
+table {
+    margin: 10px;
+}
+
+
+table {
+    border: 4px double gray;
+}
+
+
+td,
+th {
+    padding      : 5px;
+    border-bottom: 1px dotted gray;
+}
+figure{
+    float: left;
+    text-align: center;
+}
+img{
+    float: left;
+    margin: 10px;
+    margin-left: 0px;
+    width: 150px;
+}
+body{
+    background-image: url(./media/dart-hatter.jpg);
+    font-family: sans-serif;
+    text-align: justify;
+}
+#oldal{
+    background-color: white;
+    width: 75%;
+    min-width: 400px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px #2c9030 solid;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: url(./media/dart-nyil.png);
+    background-repeat: no-repeat;
+    background-position: top right
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+    color: #fd4722; 
+}
+h2{
+    color:#2c9030;
+}
+
+#menu{
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    font-size: 120%;
+    background-color: rgb(255, 255, 170);
+}

@@ -1,0 +1,9 @@
+2025-06-08 21:05:53.003 [info] Started local extension host with pid 90595.
+2025-06-08 21:05:53.030 [info] ComputeTargetPlatform: linux-x64
+2025-06-08 21:05:53.367 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-html
+2025-06-08 21:05:53.367 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-txt
+2025-06-08 21:05:55.671 [info] [perf] Render performance baseline is 13ms
+2025-06-08 21:06:01.745 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2025-06-08 21:06:02.083 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2025-06-08 21:06:05.992 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-html
+2025-06-08 21:06:05.992 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-txt

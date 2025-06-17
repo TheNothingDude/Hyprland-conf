@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kérdőív</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+    <div class="questionnaire-container">
+        <h1>Bemutatkozó kérdőív</h1>
+        <form id="questionnaire">
+            <div class="form-group">
+                <label for="name">Név:</label>
+                <input type="text" id="name" name="name" placeholder="Teljes név" required>
+            </div>
+
+            <div class="form-group">
+                <label for="bday">Születési év:</label>
+                <input type="date" id="bday" name="bdaymonth" required>
+            </div>
+
+            <div class="form-group">
+                <label for="gender">Gender:</label>
+                <select id="gender" name="gender" required>
+                    <option value="">Válassz</option>
+                    <option value="male">Férfi</option>
+                    <option value="female">Nő</option>
+                    <option value="Non-Binary">Non-Binary</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="email">E-mail cím:</label>
+                <input type="email" id="email" name="email" placeholder="example@gmail.com" required>
+            </div>
+
+            <div class="form-group">
+                <label>Iskolai végzettségek:</label>
+                <div class="radio-group">
+                    <label>
+                        <input type="radio" name="education_level" value="Alapfoku"> Alapfokú
+                    </label>
+                    <label>
+                        <input type="radio" name="education_level" value="Kozepfoku"> Középfokú
+                    </label>
+                    <label>
+                        <input type="radio" name="education_level" value="Felsofoku"> Felsőfokú
+                    </label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="description">Tapasztalatok:</label>
+                <textarea id="description" name="description" placeholder="Tapasztalatok..." rows="4" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Skillek:</label>
+                <div class="checkbox-group">
+                    <label>
+                        <input type="checkbox" name="skill" value="Comms"> Kommunikáció
+                    </label>
+                    <label>
+                        <input type="checkbox" name="skill" value="Leadership"> Projekt vezetés
+                    </label>
+                    <label>
+                        <input type="checkbox" name="skill" value="Tech"> Tech skillek
+                    </label>
+                    <label>
+                        <input type="checkbox" name="skill" value="Marketing"> Marketing
+                    </label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="hobbys">Hobbik:</label>
+                <textarea id="hobbys" name="hobbys" placeholder="Hobbik..." rows="4" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="twitter">Social media (Twitter):</label>
+                <input type="url" id="twitter" name="twAccount" placeholder="Twitter fiók URL...">
+            </div>
+
+            <div class="form-group">
+                <label for="linkedIn">Social media (LinkedIn):</label>
+                <input type="url" id="linkedIn" name="linkedAccount" placeholder="LinkedIn fiók URL...">
+            </div>
+
+            <div class="form-group">
+                <label for="rate">Rate: </label>
+                <input type="range" id="rate" name="rate" min="1" max="5" step="1" required>
+                <div id="rateStars" class="stars">⭐⭐⭐</div>
+            </div>
+
+            <div class="btn-group">
+                <button type="submit" class="btn btn-submit">Submit</button>
+                <button type="reset" class="btn btn-reset">Reset</button>
+            </div>
+            <label for=""></label>
+            <input type="" name="" id="">
+        </form>
+    </div>
+    <script>
+        const slider = document.getElementById('rate');
+        const starsDisplay = document.getElementById('rateStars');
+    
+        // Function to update stars
+        const updateStars = (value) => {
+            starsDisplay.textContent = '⭐'.repeat(value);
+        };
+    
+        // Set initial stars
+        updateStars(slider.value);
+    
+        // Update stars on slider input
+        slider.addEventListener('input', () => {
+            updateStars(slider.value);
+        });
+    </script>
+</body>
+</html>

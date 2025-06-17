@@ -1,0 +1,11 @@
+2025-06-06 13:31:51.687 [info] Started local extension host with pid 2588.
+2025-06-06 13:31:51.907 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 13:31:52.192 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-html
+2025-06-06 13:31:52.192 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-txt
+2025-06-06 13:31:52.717 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (Error: File Modified Since) file:///etc/nixos/configuration.nix
+2025-06-06 13:31:54.409 [info] [perf] Render performance baseline is 10ms
+2025-06-06 13:31:58.987 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix
+2025-06-06 13:32:00.229 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///etc/nixos/configuration.nix
+2025-06-06 13:32:02.421 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///etc/nixos/configuration.nix
+2025-06-06 13:32:16.302 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///etc/nixos/configuration.nix
+2025-06-06 13:37:38.163 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: User did not grant permission. file:///etc/nixos/configuration.nix
