@@ -9,7 +9,7 @@ check_contrast = true
 
 [templates]
 hypr = { src = "hyprland-colors.conf", dst = "~/.config/hypr/colors.conf" }
-rofi = {src = "colors-rofi.rasi", dst ="~/.config/rofi/colors.rasi", pywal = true}
+rofi = {src = "colors-rofi.rasi", dst ="~/.config/rofi/colors.rasi"}
 kitty = {src = "kitty.conf", dst ="~/.config/kitty/colors.conf"}
 waybar = {src = "waybar.css", dst="~/.config/waybar/colors.css"}
 # old times, good times. Here I put old pywal templates.
